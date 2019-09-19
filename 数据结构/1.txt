@@ -1,0 +1,6 @@
+#inlcude<iostream>
+using namepace std;
+int main(){
+    cout  << "hello git" << endl;
+    return 0;
+}
